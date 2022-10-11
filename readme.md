@@ -1,7 +1,7 @@
 # Greetings, Zuckerberg wannabes!
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets\gojo-welcome.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/gojo-welcome.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - My name is Alexandra Marie Casas Lanorias, I'm 20 years old, and I'm a third year Computer Science college student studying at Ateneo de Davao University.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets\aizawa-about.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/aizawa-about.gif">
 
 ### - Currently Learning :
 - Algorithms and Complexities
@@ -45,11 +45,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="assets\icons\java.png" alt="java"  width="100" hight="50">
-<img src="assets\icons\python.png" alt="python" width="120" hight="50">
-<img src="assets\icons\html.png" alt="html" width="120" hight="50">
-<img src="assets\icons\css3.png" alt="css" width="120" hight="50">
-<img src="assets\icons\visualstudio_code@3x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/html.png" alt="html" width="120" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/css3.png" alt="css" width="120" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/visualstudio_code%403x.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 </p>
 </br>
@@ -64,7 +64,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="assets\dazai-contact.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/dazai-contact.gif">
 
 
 Check out what kind of shenanigans I'm currently up to or just ping me if you're bored! Discord handle: arekonori#0998
@@ -72,10 +72,10 @@ Check out what kind of shenanigans I'm currently up to or just ping me if you're
 <br>
 
 <a href="mailto:alexandralanorias2002@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="assets\icons\gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.twitter.com/alexversion2002">
-  <img align="left" alt="Twitter" width="150" hight="100" src="assets\icons\twitter.png" />
+  <img align="left" alt="Twitter" width="150" hight="100" src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/twitter.png" />
  </p>
  
 
