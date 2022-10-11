@@ -9,7 +9,7 @@
 </br>
 
 
-# About Me:
+# About Me :
 
 ### - My name is Alexandra Marie Casas Lanorias, I'm 20 years old, and I'm a third year Computer Science college student studying at Ateneo de Davao University.
 
@@ -29,7 +29,7 @@
 - Drawing (Traditionally and Digitally)
 - Writing
 
-### - Future Prospects:
+### - Future Prospects :
 - Build a productivity application from scratch
 - Buy and learn how to play the cello lmao
 
@@ -39,7 +39,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools :
 </br>
 
 <p align="center">
@@ -47,11 +47,10 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="assets\icons\java.png" alt="java"  width="100" hight="50">
 <img src="assets\icons\python.png" alt="python" width="120" hight="50">
-<img src="assets\icons\js.png" alt="javascript" width="120" hight="50">
+<img src="assets\icons\js@3x.png" alt="javascript" width="120" hight="50">
 <img src="assets\icons\html.png" alt="html" width="120" hight="50">
 <img src="assets\icons\css3.png" alt="css" width="120" hight="50">
-<img src="assets\icons\intellij.png" alt="intellij"  width="100" hight="50">
-<img src="assets\icons\visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="assets\icons\visualstudio_code@3x.png" alt="visualstudio_code" width="240" hight="50">
 <img src="assets\icons\nodejs.png" alt="nodejs" width="240" hight="50">
 </br>
 </p>
