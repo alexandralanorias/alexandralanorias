@@ -49,7 +49,7 @@
 <img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/html.png" alt="html" width="120" hight="50">
 <img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/css3.png" alt="css" width="120" hight="50">
-<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/visualstudio_code%403x.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/alexandralanorias/alexandralanorias/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 </p>
 </br>
