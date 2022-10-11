@@ -107,7 +107,7 @@ Check out what kind of shenanigans I'm currently up to or just ping me if you're
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
