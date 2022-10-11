@@ -94,12 +94,21 @@ Check out what kind of shenanigans I'm currently up to or just ping me if you're
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 
 <p align="center" >  
-  <a href="https://github.com/alexandralanorias/github-readme-stats"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=alexandralanorias&&show_icons=true&theme=radical"/>
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias"/>
   </a>
   </p>
 
