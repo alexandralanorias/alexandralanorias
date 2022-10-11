@@ -47,11 +47,9 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="assets\icons\java.png" alt="java"  width="100" hight="50">
 <img src="assets\icons\python.png" alt="python" width="120" hight="50">
-<img src="assets\icons\js@3x.png" alt="javascript" width="120" hight="50">
 <img src="assets\icons\html.png" alt="html" width="120" hight="50">
 <img src="assets\icons\css3.png" alt="css" width="120" hight="50">
 <img src="assets\icons\visualstudio_code@3x.png" alt="visualstudio_code" width="240" hight="50">
-<img src="assets\icons\nodejs.png" alt="nodejs" width="240" hight="50">
 </br>
 </p>
 </br>
@@ -71,6 +69,8 @@
 
 Check out what kind of shenanigans I'm currently up to or just ping me if you're bored! Discord handle: arekonori#0998
 
+<br>
+
 <a href="mailto:alexandralanorias2002@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets\icons\gmail.png" />
 </a>
@@ -79,6 +79,9 @@ Check out what kind of shenanigans I'm currently up to or just ping me if you're
  </p>
  
 
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
