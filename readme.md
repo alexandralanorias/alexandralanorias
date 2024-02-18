@@ -29,7 +29,7 @@
 <div align="center">
 
 <!-- GITHUB STREAK -->
-[![Alexandra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandralanorias&background=d4cbbc&ring=707C4F&currStreakLabel=424106&dates=DFD8C8&sideLabels=DFD8C8&currStreakNum=FFDD6C&sideNums=707C4F&border=75715E&fire=FFDD6C&stroke=DFD8C8)](https://github.com/alexandralanorias)
+[![Alexandra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandralanorias&background=d4cbbc&ring=707C4F&currStreakLabel=707C4F&dates=DFD8C8&sideLabels=DFD8C8&currStreakNum=FFDD6C&sideNums=707C4F&border=75715E&fire=FFDD6C&stroke=DFD8C8)](https://github.com/alexandralanorias)
 
 <!-- GITHUB STATISTICS -->
 [![Alexandra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alexandralanorias&count_private=true&include_all_commits=true&show_icons=true&title_color=707C4F&text_color=DFD8C8&icon_color=75715e&bg_color=d4cbbc&border_color=75715e&custom_title=Alexandra's%20Statistics)](https://github.com/alexandralanorias)
