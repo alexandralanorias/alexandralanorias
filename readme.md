@@ -32,6 +32,6 @@
 [![Alexa's Stats](https://github-readme-stats.vercel.app/api?username=alexandralanorias&&show_icons=true&theme=radical)](https://github.com/alexandralanorias)
 
 <!-- GITHUB TOP LANGS -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&layout=compact)
+[![Alexa's Top Langs](https://github-readme-stats.vercel.app/api?username=alexandralanorias&&show_icons=true&theme=radical&layout=compact)]
 
 </div>
