@@ -29,10 +29,10 @@
 <div align="center">
 
 <!-- GITHUB STREAK -->
-[![Alexandra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandralanorias&background=d4cbbc&ring=707C4F&currStreakLabel=707C4F&dates=A4B07E&sideLabels=A4B07E&currStreakNum=dfad74&sideNums=707C4F&border=75715E&fire=dfad74&stroke=A4B07E)](https://github.com/alexandralanorias)
+[![Alexandra's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandralanorias&background=d4cbbc&ring=707C4F&currStreakLabel=707C4F&dates=78917f&sideLabels=78917f&currStreakNum=dfad74&sideNums=707C4F&border=75715E&fire=dfad74&stroke=78917f)](https://github.com/alexandralanorias)
 
 <!-- GITHUB STATISTICS -->
-[![Alexandra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alexandralanorias&count_private=true&include_all_commits=true&show_icons=true&title_color=707C4F&text_color=A4B07E&icon_color=75715e&bg_color=d4cbbc&border_color=75715e&custom_title=Alexandra's%20Statistics)](https://github.com/alexandralanorias)
+[![Alexandra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alexandralanorias&count_private=true&include_all_commits=true&show_icons=true&title_color=707C4F&text_color=78917f&icon_color=75715e&bg_color=d4cbbc&border_color=75715e&custom_title=Alexandra's%20Statistics)](https://github.com/alexandralanorias)
 
 <!-- TOP LANGUAGES CARD -->
 [![Alexandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&layout=compact)](https://github.com/alexandralanorias)
