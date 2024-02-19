@@ -35,5 +35,5 @@
 [![Alexandra's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alexandralanorias&count_private=true&include_all_commits=true&show_icons=true&title_color=707C4F&text_color=78917f&icon_color=75715e&bg_color=d4cbbc&border_color=75715e&custom_title=Alexandra's%20Statistics)](https://github.com/alexandralanorias)
 
 <!-- TOP LANGUAGES CARD -->
-[![Alexandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&layout=compact)](https://github.com/alexandralanorias)
+[![Alexandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandralanorias&layout=compact&title_color=707C4F&text_color=78917f&bg_color=d4cbbc&border_color=75715e&custom_title=Alexandra's%20Top%20Languages)](https://github.com/alexandralanorias)
 </div>
